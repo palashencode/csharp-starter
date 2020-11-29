@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "IntroLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Palash N\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\programs\\workspaces\\CSharp_WS\\csharp_ws\\poc\\IntroUI\\IntroUI.csproj",
+      "projectName": "IntroUI",
+      "projectPath": "D:\\programs\\workspaces\\CSharp_WS\\csharp_ws\\poc\\IntroUI\\IntroUI.csproj",
+      "packagesPath": "C:\\Users\\Palash N\\.nuget\\packages\\",
+      "outputPath": "D:\\programs\\workspaces\\CSharp_WS\\csharp_ws\\poc\\IntroUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Palash N\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "D:\\programs\\workspaces\\CSharp_WS\\csharp_ws\\poc\\IntroLibrary\\IntroLibrary.csproj": {
+              "projectPath": "D:\\programs\\workspaces\\CSharp_WS\\csharp_ws\\poc\\IntroLibrary\\IntroLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

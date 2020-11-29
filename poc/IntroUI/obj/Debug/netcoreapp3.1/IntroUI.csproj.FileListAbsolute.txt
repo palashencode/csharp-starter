@@ -1,0 +1,16 @@
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.exe
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.deps.json
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.json
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.runtimeconfig.dev.json
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.dll
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroUI.pdb
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.dll
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\bin\Debug\netcoreapp3.1\IntroLibrary.pdb
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csprojAssemblyReference.cache
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfoInputs.cache
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.AssemblyInfo.cs
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CoreCompileInputs.cache
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.csproj.CopyComplete
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.dll
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.pdb
+D:\programs\workspaces\CSharp_WS\csharp_ws\poc\IntroUI\obj\Debug\netcoreapp3.1\IntroUI.genruntimeconfig.cache
